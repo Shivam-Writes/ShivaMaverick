@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ShivaMaverick
+- 👋 Hi, I’m @Shivam-Writes
 - 👀 I’m interested in learning AI
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning web development
 - 📫 Reach me at shivamdhakad197@gmail.com
 
 <!---
